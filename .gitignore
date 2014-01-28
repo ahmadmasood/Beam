@@ -9,3 +9,5 @@ target/m2e-wtp/web-resources/META-INF/maven/Beam/Beam/pom.properties
 *.class
 
 *.class
+
+*.class

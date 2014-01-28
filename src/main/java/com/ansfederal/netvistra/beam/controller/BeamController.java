@@ -48,7 +48,7 @@ public class BeamController {
 
 	@RequestMapping(value = "/")
 	public String test(ModelMap map) {
-		logger.debug("Dashboard");
+		//logger.debug("Dashboard");
 		return "dashboard";
 	}
 
