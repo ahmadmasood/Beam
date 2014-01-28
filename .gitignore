@@ -1,0 +1,7 @@
+
+*.class
+/target
+/target
+/target
+
+target/m2e-wtp/web-resources/META-INF/maven/Beam/Beam/pom.properties
